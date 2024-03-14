@@ -6,6 +6,7 @@ template.innerHTML = `
         <li><a href="/">Home</a></li>
         <li><a href="/pack">Pack</a></li>
         <li><a href="/lock">Lock</a></li>
+        <li><a href="/housework">Housework</a></li>
     </ul>
     <nav>
         <h3 onclick="this.getRootNode().host.menu()">Menu</h3> 
@@ -14,6 +15,7 @@ template.innerHTML = `
             <optgroup label="Calaveras">
                 <option value="/pack/">Pack</option>
                 <option value="/lock/">Lock</option>
+                <option value="/housework/">Housework</option>
             </optgroup>
             <optgroup label="Lyell">
                 <option value="/pack/" disabled>Pack</option>
