@@ -22,14 +22,24 @@ template.innerHTML = `
                 <option value="/lock/" disabled>Lock</option>
             </optgroup>
             <optgroup label="Long Beach">
-            </optgroup>
-            <optgroup label="Hawaii">
+                <option value="/pack/" disabled>Pack</option>
+                <option value="/lock/" disabled>Lock</option>
             </optgroup>
             <optgroup label="Cambodia">
+                <option value="/pack/" disabled>Pack</option>
+                <option value="/lock/" disabled>Lock</option>
+            </optgroup>
+            <optgroup label="Hawaii">
+                <option value="/pack/" disabled>Pack</option>
+                <option value="/lock/" disabled>Lock</option>
             </optgroup>
             <optgroup label="Ukraine">
+                <option value="/pack/" disabled>Pack</option>
+                <option value="/lock/" disabled>Lock</option>
             </optgroup>
             <optgroup label="Mexico">
+                <option value="/pack/" disabled>Pack</option>
+                <option value="/lock/" disabled>Lock</option>
             </optgroup>
         </select>
     </nav>

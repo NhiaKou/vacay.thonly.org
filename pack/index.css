@@ -5,3 +5,8 @@ p {
 img {
 	width: 100%;
 }
+
+.subheading {
+    text-decoration: underline;
+    font-weight: bold;
+}
