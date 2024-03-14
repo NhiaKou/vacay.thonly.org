@@ -19,9 +19,15 @@ template.innerHTML = `
                 <option value="/pack/" disabled>Pack</option>
                 <option value="/lock/" disabled>Lock</option>
             </optgroup>
+            <optgroup label="Long Beach">
+            </optgroup>
+            <optgroup label="Hawaii">
+            </optgroup>
             <optgroup label="Cambodia">
-                <option value="/pack/" disabled>Pack</option>
-                <option value="/lock/" disabled>Lock</option>
+            </optgroup>
+            <optgroup label="Ukraine">
+            </optgroup>
+            <optgroup label="Mexico">
             </optgroup>
         </select>
     </nav>
