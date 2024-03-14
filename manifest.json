@@ -1,39 +1,39 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-  "name": "386 N Calaveras St",
-  "short_name": "386 Calaveras",
+  "name": "Vacay",
+  "short_name": "Vacay",
   "start_url": "/",
   "display": "standalone",
   "background_color": "skyblue",
-  "description": "Twenty Nineteen LLC",
+  "description": "Nhia Kou LLC",
   "icons": [
     {
-      "src": "/house.jpg",
+      "src": "/thonly.jpg",
       "sizes": "48x48",
       "type": "image/jpg"
     },
     {
-      "src": "/house.jpg",
+      "src": "/thonly.jpg",
       "sizes": "72x72",
       "type": "image/jpg"
     },
     {
-      "src": "/house.jpg",
+      "src": "/thonly.jpg",
       "sizes": "96x96",
       "type": "image/jpg"
     },
     {
-      "src": "/house.jpg",
+      "src": "/thonly.jpg",
       "sizes": "144x144",
       "type": "image/jpg"
     },
     {
-      "src": "/house.jpg",
+      "src": "/thonly.jpg",
       "sizes": "168x168",
       "type": "image/jpg"
     },
     {
-      "src": "/house.jpg",
+      "src": "/thonly.jpg",
       "sizes": "192x192",
       "type": "image/jpg"
     }
